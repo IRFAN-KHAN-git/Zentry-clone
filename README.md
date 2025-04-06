@@ -1,12 +1,37 @@
-# React + Vite
+# Zentry Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend-only clone of [Zentry](https://zentry.com), built using **React** and **Tailwind CSS**.  
+Fully responsive, clean, and styled to match the original design.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [zentry-clon.netlify.app](https://zentry-clon.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Project Screenshot](./screenshot.png) <!-- Replace with actual image path -->
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **Netlify** (for deployment)
+
+---
+
+## 📁 Features
+
+- Pixel-perfect UI clone of Zentry
+- Responsive design across devices
+- Modern, minimal layout using Tailwind
+- Clean component structure
+
+---
+
+## 📦 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/IRFAN-KHAN-git/zentry-clone.git
+cd zentry-clone
+npm install
+npm run dev   # or npm start if you're using CRA
